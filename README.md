@@ -67,7 +67,7 @@ To view installation and usage instructions specific to each branch build, be su
 var cscf = require( '@stdlib/math-base-special-cscf' );
 ```
 
-## cscf( x )
+#### cscf( x )
 
 Evaluates the [cosecant][trigonometric-functions] of a single-precision floating-point number (in radians).
 
